@@ -20,8 +20,8 @@ Sistema para gestión y registro de alumnos.
 
 ### Login
 
-[Login](https://github.com/jalmx89/SAL/blob/master/views/Login.png?raw=true "Login")  
+![Login](https://github.com/jalmx89/SAL/blob/master/views/Login.png?raw=true "Login")  
 
 ### SignUp
 
-[SignUp](https://github.com/jalmx89/SAL/blob/master/views/SingUp.png?raw=true "SignUp")  
+![SignUp](https://github.com/jalmx89/SAL/blob/master/views/SingUp.png?raw=true "SignUp")  
